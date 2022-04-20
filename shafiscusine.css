@@ -1,0 +1,189 @@
+.a1 img{
+    width: 200px;
+    height: 100px;
+}
+.a1 button{
+    color: black;
+    background-color:darkgreen;
+    border-radius: 12px;
+    width: 163px;
+}
+.a1{
+    font-size:large;
+}
+.a2 button{
+    color: white;
+    background-color: darkgreen;
+    width: 150px;
+    height: 50px;
+    border-radius: 12px;
+}
+
+.a3{
+    margin-top: 293px;
+    padding-left: 20px;
+}
+
+.a3 p{
+    font-size: large;
+}
+.a2 img{
+    padding-top: 40px;
+}
+.a4{
+    width: 868px;
+    height: 300px;
+    background-color:azure;
+    padding-top: 150px;
+    margin-left: 264px;
+    padding: 25px;
+    font-size: large;
+}
+.a5{
+    padding-left:-50px;
+    padding-left: 35px;
+    font-size:large;
+    height: 500px;
+    text-align: justify;
+    color: darkgreen;
+}
+.a5 p{
+    color: black;
+}
+.a5 h2{
+    padding-top: 152px;
+}
+.a5 button{
+    color: black;
+    background-color:darkgreen;
+    border-radius: 12px;
+    width: 150px;
+    height: 50px;
+}
+.a5 h4{
+    color: darkgreen;
+
+}
+.col-4{
+    box-shadow: 5px 5px 5px 5px azure;
+}
+.col-4:hover{
+    box-shadow: 5px 5px 5px 5px lightgreen;
+}
+.a6{
+    padding-left: 25px;
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.card-body{
+    background-color:azure;
+}
+.a6 img{
+    width: 248px;
+    height: 136px;
+}
+.a6 p{
+    color: darkgreen;
+}
+.a6 i{
+    color:darkgreen;
+}
+.a7{
+    color: darkgreen;
+    font-size:xx-large;
+}
+.a8{
+    font-size:xx-large;
+    color: black;
+}
+.a9{
+    color: darkgreen;
+    font-size: x-large;
+}
+.a10{
+    color: darkgreen;
+    font-size: large;
+}
+.a11{
+    color: white;
+    background-color: darkgreen;
+    border-radius: 12px;
+    width: 200px;
+    height: 50px;
+}
+.a12{
+    margin-top: 60px;
+}
+.a13{
+    padding-left: 25px;
+    padding-top: 50px;
+}
+.card-body{
+    background-color:azure;
+}
+.a14{
+    padding-top: 25px;
+    margin-left: 647px;
+    margin-top: -315px;
+}
+.a14 button{
+    color: white;
+    background-color: darkgreen;
+    border-radius: 12px;
+    width: 200px;
+    height: 50px;
+}
+.a15{
+    padding-top: 150px;
+    width: 600px;
+    height: 300px;
+    padding-left: 150px;
+    text-align: justify;
+    
+}
+.a16{
+    margin-left: 700px;
+    margin-top: -110px;
+    display: flex;
+    justify-content: space-around;
+}
+.a17{
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.a17 button{
+    color: white;
+    background-color: darkgreen;
+    width: 100px;
+    height: 50px;
+    border-radius: 12px;
+}
+.a17 input{
+    border-radius: 12px;
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a18 p{
+    color: black;
+    margin-top: 25px;
+}
+.a18 h4{
+    color: black;
+}
+.a18 i{
+    color: black;
+    
+}
+.a18 p{
+    font-size:large;
+}
+.a18 img{
+    width: 153px;
+    height: 123px;
+}
+.col-3{
+    background-color: azure;
+}
