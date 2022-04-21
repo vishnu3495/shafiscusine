@@ -3,20 +3,28 @@
     height: 100px;
 }
 .a1 button{
-    color: black;
+    color:green;
     background-color:darkgreen;
     border-radius: 12px;
     width: 163px;
+}
+.a1 button:hover{
+    color: darkgreen;
+    background-color:green;
 }
 .a1{
     font-size:large;
 }
 .a2 button{
-    color: white;
+    color:white;
     background-color: darkgreen;
     width: 150px;
     height: 50px;
     border-radius: 12px;
+}
+.a2 button:hover{
+    color: darkgreen;
+    background-color:green;
 }
 
 .a3{
@@ -54,11 +62,15 @@
     padding-top: 152px;
 }
 .a5 button{
-    color: black;
+    color:white;
     background-color:darkgreen;
     border-radius: 12px;
     width: 150px;
     height: 50px;
+}
+.a5 button:hover{
+    color: darkgreen;
+    background-color: green;
 }
 .a5 h4{
     color: darkgreen;
@@ -113,6 +125,10 @@
     width: 200px;
     height: 50px;
 }
+.a11:hover{
+    color: darkgreen;
+    background-color: green;
+}
 .a12{
     margin-top: 60px;
 }
@@ -134,6 +150,10 @@
     border-radius: 12px;
     width: 200px;
     height: 50px;
+}
+.a14 button:hover{
+    color: darkgreen;
+    background-color: green;
 }
 .a15{
     padding-top: 150px;
@@ -159,6 +179,10 @@
     width: 100px;
     height: 50px;
     border-radius: 12px;
+}
+.a17 button:hover{
+    color: darkgreen;
+    background-color: green;
 }
 .a17 input{
     border-radius: 12px;
