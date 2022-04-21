@@ -1,3 +1,6 @@
+body{
+    padding: 20px;
+}
 .a1 img{
     width: 200px;
     height: 100px;
@@ -76,10 +79,10 @@
     color: darkgreen;
 
 }
-.col-4{
+.a12 img{
     box-shadow: 5px 5px 5px 5px azure;
 }
-.col-4:hover{
+.a12 img:hover{
     box-shadow: 5px 5px 5px 5px lightgreen;
 }
 .a6{
@@ -131,6 +134,7 @@
 }
 .a12{
     margin-top: 60px;
+    height: 500px;
 }
 .a13{
     padding-left: 25px;
@@ -159,7 +163,7 @@
     padding-top: 150px;
     width: 600px;
     height: 300px;
-    padding-left: 150px;
+    padding-left: -10px;
     text-align: justify;
     
 }
@@ -167,11 +171,12 @@
     margin-left: 700px;
     margin-top: -110px;
     display: flex;
+    align-items: center;
     justify-content: space-around;
 }
 .a17{
     padding-top: 150px;
-    padding-left: 150px;
+    padding-left: 90px;
 }
 .a17 button{
     color: white;
