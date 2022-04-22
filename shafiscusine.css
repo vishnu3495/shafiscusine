@@ -18,6 +18,12 @@ body{
 .a1{
     font-size:large;
 }
+.a2 img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;;
+    padding-left: -5px;
+}
 .a2 button{
     color:white;
     background-color: darkgreen;
@@ -39,30 +45,33 @@ body{
     font-size: large;
 }
 .a2 img{
-    padding-top: 40px;
+    padding-top: 60px;
+    padding-left: 60px;
 }
 .a4{
     width: 868px;
-    height: 300px;
+    height: 400px;
     background-color:azure;
-    padding-top: 150px;
-    margin-left: 264px;
-    padding: 25px;
+    margin-top: 74px;
+    margin-left: 201px;
+    padding: 5px;
     font-size: large;
 }
 .a5{
-    padding-left:-50px;
-    padding-left: 35px;
     font-size:large;
-    height: 500px;
+    /* height: 200px; */
     text-align: justify;
     color: darkgreen;
+    justify-content: space-between;
+    
 }
 .a5 p{
     color: black;
+    font-size: medium;
 }
-.a5 h2{
-    padding-top: 152px;
+.a5 h3{
+    font-size:large;
+
 }
 .a5 button{
     color:white;
@@ -79,53 +88,41 @@ body{
     color: darkgreen;
 
 }
+
 .a12 img{
     box-shadow: 5px 5px 5px 5px azure;
 }
 .a12 img:hover{
     box-shadow: 5px 5px 5px 5px lightgreen;
 }
-.a6{
-    padding-left: 25px;
-    padding-top: 200px;
-    display: flex;
-    justify-content: space-between;
-    
-}
-.card-body{
-    background-color:azure;
-}
-.a6 img{
-    width: 248px;
-    height: 136px;
-}
-.a6 p{
-    color: darkgreen;
-}
-.a6 i{
-    color:darkgreen;
-}
+
 .a7{
     color: darkgreen;
     font-size:xx-large;
+    
+    
+    
 }
 .a8{
     font-size:xx-large;
     color: black;
+    width: 100%;
 }
 .a9{
     color: darkgreen;
-    font-size: x-large;
+    font-size: large;
+    width: 100%;
 }
 .a10{
     color: darkgreen;
     font-size: large;
+    width: 100%;
 }
 .a11{
     color: white;
     background-color: darkgreen;
     border-radius: 12px;
-    width: 200px;
+    width: 170px;
     height: 50px;
 }
 .a11:hover{
@@ -133,11 +130,12 @@ body{
     background-color: green;
 }
 .a12{
-    margin-top: 60px;
+    margin-top: 88px;
     height: 500px;
+    padding-right: 60px;
 }
 .a13{
-    padding-left: 25px;
+    padding-left: 6px;
     padding-top: 50px;
 }
 .card-body{
@@ -145,7 +143,7 @@ body{
 }
 .a14{
     padding-top: 25px;
-    margin-left: 647px;
+    margin-left: 570px;
     margin-top: -315px;
 }
 .a14 button{
@@ -160,23 +158,32 @@ body{
     background-color: green;
 }
 .a15{
-    padding-top: 150px;
-    width: 600px;
+    margin-top: -10px;
+    width: 380px;
     height: 300px;
     padding-left: -10px;
     text-align: justify;
-    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+       
 }
-.a16{
-    margin-left: 700px;
+.a15 h1{
+    padding-top: 200px;
+}
+
+.a15 img{
+    margin-left: 720px;
     margin-top: -110px;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    flex-wrap:wrap;
+    padding-left: 25px;
 }
 .a17{
     padding-top: 150px;
-    padding-left: 90px;
+    padding-left: 40px;
 }
 .a17 button{
     color: white;
